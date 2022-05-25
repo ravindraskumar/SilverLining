@@ -1,0 +1,6 @@
+Make_qa mechanism 
+
+a script to login to machine , transfer test code and make config changes to make it a qa machine 
+
+Automatic test_log upload 
+
