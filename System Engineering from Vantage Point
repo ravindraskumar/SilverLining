@@ -1,0 +1,10 @@
+Focus areas of a robust system 
+
+Observibility 
+debuging and logging 
+code coverage and coverity 
+upgrade paths and f/w
+BMC and Associated facilities/mgnt (redfish, ipmitool)
+kernel config, systemctl 
+OS configs
+OS hardening and Security Audit
